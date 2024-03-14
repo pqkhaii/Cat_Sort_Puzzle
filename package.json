@@ -1,0 +1,12 @@
+{
+  "name": "water_sort",
+  "uuid": "7c8089ec-6ea2-4bfe-8732-fd533c11a547",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk": "^0.0.35",
+    "@onechaintech/gamesdk-beta": "^0.0.18",
+    "@onechaintech/gamesdk-dev": "^0.0.35"
+  }
+}
